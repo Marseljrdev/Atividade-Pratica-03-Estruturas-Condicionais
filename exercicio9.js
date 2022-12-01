@@ -36,7 +36,6 @@ document.write("A maior altura da lista é: " + altMaior, '<br>');
 document.write("A menor altura da lista é: " + altMenor, '<br>');
 
 
-// console.log(alturas[0]);
 
 
 
@@ -48,25 +47,3 @@ document.write("A menor altura da lista é: " + altMenor, '<br>');
 
 
 
-
-
-/* var firstAltura = parseFloat(prompt("Digite a primeira altura: "));
-var nextAltura = '';
-
-for(let i = 2; i <= 5; i++) {
-    
-    nextAltura = parseFloat(prompt("Digite a " +i+ "altura: "));
-
-}
-
-if(nextAltura > firstAltura) {
-        document.write("A maior altura do grupo é: " + nextAltura, '<br>');
-    // firstAltura = nextAltura;
-}else{
-    
-    document.write("A menor altura é: " + firstAltura);
-}
-/* if( firstAltura < nextAltura) {
-    // firstAltura;
-    document.write("A menor altura é: " + firstAltura);
-} */
