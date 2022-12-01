@@ -7,7 +7,7 @@
 var altura = 0;
 var alturas = [];
 
-while(alturas.length <= 2) {
+while(alturas.length <= 15) {
     
     altura = parseFloat(prompt('Digite a sua altura: '));
 
