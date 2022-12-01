@@ -14,7 +14,7 @@ var valorNegativo = 0;
 
 do{
     numeroDez.push(parseInt(prompt("Digite um numero: ")));
-}while(numeroDez.length <= 3);
+}while(numeroDez.length <= 10);
 
 
 
